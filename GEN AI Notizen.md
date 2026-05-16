@@ -1,7 +1,3 @@
-Got it! Removing the timestamps definitely makes the headers much cleaner and easier to read.
-
-Here is your study guide, keeping your exact structure and the enhanced details, but with the minutes and seconds completely stripped from the headlines:
-
 ### 2. Generative AI Fundamentals and Bedrock
 
 **10. Fine-Tuning Foundation Models in Bedrock**
